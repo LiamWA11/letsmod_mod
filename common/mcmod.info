@@ -1,0 +1,21 @@
+[
+{
+  "modid": "letsmod",
+  "name": "Let's Mod With Pahimar",
+  "description": "A tutorial to make a GREAT mod!!",
+  "version": "0.0.1",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "LiamWA11"
+    
+  ],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
